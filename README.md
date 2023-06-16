@@ -17,6 +17,7 @@ This repository serves as a comprehensive reference guide for built-in methods a
 12. [List Comprehension](#list-comprehension)
 13. [Lambda Functions](#lambda-functions)
 14. [Built-in Functions](#built-in-functions)
+
 Below is a comprehensive list of commonly used built-in methods and functions in Python, presented in alphabetical order:
 
 ## String Methods
