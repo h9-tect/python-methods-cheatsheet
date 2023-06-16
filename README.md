@@ -3,9 +3,8 @@
 This repository serves as a comprehensive reference guide for built-in methods and functions in Python. It provides an organized collection of commonly used methods and functions available in the Python Standard Library, covering various data types and functionalities.
 
 ## Content Index
-
-1. [String Methods]( ##String Methods)
-2. [List Methods](##List Methods)
+1. [String Methods](#string-methods)
+2. [List Methods](#list-methods)
 3. [Dictionary Methods](#dictionary-methods)
 4. [Tuple Methods](#tuple-methods)
 5. [Set Methods](#set-methods)
