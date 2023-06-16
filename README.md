@@ -2,7 +2,22 @@
 # Python Built-in Methods and Functions
 This repository serves as a comprehensive reference guide for built-in methods and functions in Python. It provides an organized collection of commonly used methods and functions available in the Python Standard Library, covering various data types and functionalities.
 
+## Content Index
 
+1. [String Methods]( ## String Methods)
+2. [List Methods](## List Methods)
+3. [Dictionary Methods](#dictionary-methods)
+4. [Tuple Methods](#tuple-methods)
+5. [Set Methods](#set-methods)
+6. [File Object Methods](#file-object-methods)
+7. [Boolean Methods](#boolean-methods)
+8. [Range Function](#range-function)
+9. [Itertools Functions](#itertools-functions)
+10. [Math Functions](#math-functions)
+11. [Datetime Functions](#datetime-functions)
+12. [List Comprehension](#list-comprehension)
+13. [Lambda Functions](#lambda-functions)
+14. [Built-in Functions](#built-in-functions)
 Below is a comprehensive list of commonly used built-in methods and functions in Python, presented in alphabetical order:
 
 ## String Methods
