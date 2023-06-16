@@ -4,8 +4,8 @@ This repository serves as a comprehensive reference guide for built-in methods a
 
 ## Content Index
 
-1. [String Methods]( ## String Methods)
-2. [List Methods](## List Methods)
+1. [String Methods]( ##String Methods)
+2. [List Methods](##List Methods)
 3. [Dictionary Methods](#dictionary-methods)
 4. [Tuple Methods](#tuple-methods)
 5. [Set Methods](#set-methods)
